@@ -1,6 +1,6 @@
 # Text
 
-Waffle d'liège
+## Waffle d'liège
 Jannes Lambrecht, Bergen (NO), 1994
 Mirthe Vermunicht, Leuven (BE), 1999 
 
