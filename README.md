@@ -1,8 +1,8 @@
 # Text
 
 ## Waffle d'liège
-Jannes Lambrecht, Bergen (NO), 1994
-Mirthe Vermunicht, Leuven (BE), 1999 
+- Jannes Lambrecht, Bergen (NO), 1994
+- Mirthe Vermunicht, Leuven (BE), 1999 
 
 Mirthe Vermunicht and Jannes Lambrecht came together to craft a unique and interactive homage to the centuries-old Liège waffle tradition. Their creation invites passers-by to participate in a tactile experience by pouring golden syrup over a waffle with their own hands, forging a tangible link to the rich history of this beloved delicacy. This fusion of art and gastronomy serves as a testament to their creative synergy and inventive spirit.
 
