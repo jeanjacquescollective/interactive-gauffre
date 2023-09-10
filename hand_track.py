@@ -6,7 +6,7 @@ import RPi.GPIO as GPIO
 
 
 def handtracking():
-    capture = cv.VideoCapture(1)
+    capture = cv.VideoCapture(0)
     capture.set(cv.CAP_PROP_FRAME_WIDTH, 80)
     capture.set(cv.CAP_PROP_FRAME_HEIGHT, 60)
     mphands = mp.solutions.hands
